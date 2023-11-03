@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -15,30 +15,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
-global.INBOX_BLOCK_MSG ='BLOCK !!!'
+global.AUTO_REACT = 'true' // true of false
+global.INBOX_BLOCK_MSG ='Bye සුද්දා'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
+global.alivemsg = 'The X Bot'
+global.alivepic = 'https://i.ibb.co/mCs8p89/cover.png '
 global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownername = "Litlle Hacker" //ur owner name
+global.ytname = "The X" //ur yt chanel name
+global.socialm = "GitHub: JithulaBhasitha" //ur github or insta name
+global.location = "Sri Lanka, Galle" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "94786874741" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.premium = ['94770463141'] //ur premium number
+global.botname = 'The X ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.darknero.ga/' //script link
+global.websitex = "https://github.com/JithulaBhasitha/DARK-NERO-v8" //ur website to be displayed
+global.botscript =  'https://github.com/JithulaBhasitha/DARK-NERO-v8' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "By The X" //ur sticker watermark packname
+global.author = "Little Hacker" //ur sticker watermark author
+global.wm = "Bit X Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -52,11 +52,11 @@ global.mess = {
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
+    group: 'මේවා group වල විතරයි පාවිච්චි කරන්න පුලුවන්!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'ᴘʟᴇᴀꜱᴇ ᴡɪᴛʜ...',
-    linkm: 'Where is the link?',
+    wait: 'පොඩ්ඩක් ඉන්න බබෝ',
+    linkm: 'කෝ ලින්ක් එක?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
